@@ -15,8 +15,8 @@ The system workflow includes:
 * User Sensing: Collection of physiological data such as heart rate and stress levels from wearable devices.
 * Processing Layer: Data transmission, synchronization, preprocessing, and secure data transfer through a mobile app or cloud platform.
 * ML & Emotion Detection: Integration of physiological data and psychological data (from questionnaires) for emotion detection and recommendation generation using machine learning.
-*User Interface: Display of personalized music recommendations with user interaction and feedback support.
-*Using adaptive learning and reinforcement learning techniques, the recommendation engine continuously improves recommendations based on user feedback and listening behavior.
+* User Interface: Display of personalized music recommendations with user interaction and feedback support.
+* Using adaptive learning and reinforcement learning techniques, the recommendation engine continuously improves recommendations based on user feedback and listening behavior.
 
 ---
 
@@ -43,5 +43,5 @@ This project contributes toward improving mental wellness by providing personali
 * Project Title: Adaptive Learning Multimodal AI Music Recommendation System
 * Department: Electronics & Telecommunication Engineering
 * Academic Year: 2025–26
-* Project Type:B.E. Final Year Project
+* Project Type: B.E. Final Year Project
 * Institution: Fr. Conceicao Rodrigues Institute of Technology (FCRIT), Vashi, Navi Mumbai
