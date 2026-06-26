@@ -1,6 +1,5 @@
-<p align="center">
+
 # 🎵 Adaptive Learning Multimodal AI Music Recommendation System
-</p>
 
 <p align="center">
   <img src="Gemini_AI.png" alt="Adaptive Learning Multimodal AI Music Recommendation System" width="100%">
