@@ -1,4 +1,12 @@
-# Adaptive Learning Multimodal AI Music Recommendation System
+# 🎵 Adaptive Learning Multimodal AI Music Recommendation System
+
+<p align="center">
+  <img src="Gemini_AI.png" alt="Adaptive Learning Multimodal AI Music Recommendation System" width="100%">
+</p>
+
+<p align="center">
+  <b>AI-Powered Personalized Music Recommendation using Wearable Sensors, Psychological Assessments, and Adaptive Learning</b>
+</p>
 
 ---
 
