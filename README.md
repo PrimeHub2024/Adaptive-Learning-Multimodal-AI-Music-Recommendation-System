@@ -7,7 +7,7 @@
 
 ---
 
-## Project Overview
+## 📌 Project Overview
 
 The Adaptive Learning Multimodal AI Music Recommendation System (AIMRS) is an AI-powered personalized music recommendation platform designed to help users reduce stress and improve emotional well-being through intelligent music selection.
 
@@ -20,7 +20,7 @@ The system workflow includes:
 
 ---
 
-## Project Objective
+## ✨ Project Objective
 
 * To develop an intelligent recommendation system capable of:
 * Detecting user emotional and stress conditions
@@ -31,14 +31,14 @@ The system workflow includes:
 
 ---
 
-## Sustainable Development Goal (SDG)
+## ♻️ Sustainable Development Goal (SDG)
 ### SDG 3 – Good Health and Well-Being
 
 This project contributes toward improving mental wellness by providing personalized music interventions aimed at reducing stress and enhancing emotional balance.
 
 ---
 
-## Academic Information
+## 🎓 Academic Information
 
 * Project Title: Adaptive Learning Multimodal AI Music Recommendation System
 * Department: Electronics & Telecommunication Engineering
